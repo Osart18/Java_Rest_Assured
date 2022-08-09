@@ -1,0 +1,5 @@
+https://github.com/Osart18/API-Automation-with-NightWatch.git
+
+https://api.nasa.gov/planetary/apod?api_key=Cw3chwPdxZkOVJBsl1J0MqEqHCctZV4vOU6Sqod8
+
+8823631 referencia activacion super token
